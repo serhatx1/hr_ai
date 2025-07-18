@@ -1,0 +1,23 @@
+KEYWORDS = [
+    "Python", "Java", "JavaScript", "C#", "Go", "Golang", "Ruby", "PHP", "Swift", "Objective-C", "Kotlin", "C++", "C", "Rust",
+    "SQL", "NoSQL", "HTML5", "CSS3", "SASS", "LESS", "Styled Components", "Tailwind CSS", "Bootstrap", "Material-UI",
+    "React.js", "Angular", "Vue.js", "Svelte", "Next.js", "Nuxt.js", "Gatsby.js", "Redux", "Context API", "Zustand", "Recoil", "MobX", "RxJS", "Vuex", "NgRx",
+    "Webpack", "Babel", "Vite", "Parcel", "Rollup", "Responsive Design", "Single Page Application (SPA)", "Progressive Web Apps (PWA)",
+    "UI/UX Prensipleri", "Kullanılabilirlik (Usability)", "Erişilebilirlik (Accessibility - WCAG)", "D3.js", "Chart.js", "Three.js",
+    "Node.js", "Express.js", "NestJS", "Koa.js", "Hapi", "Django", "Flask", "FastAPI", "Spring Boot", "Spring Framework", "Hibernate", "Maven", "Gradle", "JVM",
+    "Servlets", "JSP", "Vaadin", "Struts", "ASP.NET MVC", "ASP.NET Web API", "Entity Framework", "LINQ", "Blazor", "Xamarin", "Unity", "Gin", "Echo", "Fiber", "Gorilla Mux", "gRPC",
+    "Ruby on Rails", "Sinatra", "Laravel", "Symfony", "Zend Framework", "WordPress Geliştirme", "Drupal Geliştirme", "Joomla Geliştirme",
+    "Cocoa Touch", "SwiftUI", "UIKit", "Core Data", "Combine Framework", "Android Studio", "Jetpack Compose", "Ktor", "STL", "Boost Kütüphanesi", "CMake",
+    "Embedded Systems", "Oyun Geliştirme", "Qt Framework", "WebAssembly", "Actix-web", "Tokio", "Serde", "PostgreSQL", "MySQL", "MS SQL Server", "Oracle Veritabanı", "SQLite", "T-SQL", "PL/SQL",
+    "MongoDB", "Cassandra", "Redis", "DynamoDB", "Neo4j", "Couchbase", "Elasticsearch", "ORM (Object-Relational Mapping)", "ODM (Object-Document Mapping)", "Veritabanı Tasarımı", "Normalizasyon",
+    "Sorgu Optimizasyonu", "İndeksleme", "AWS (Amazon Web Services)", "Azure (Microsoft Azure)", "GCP (Google Cloud Platform)", "EC2", "S3", "Lambda", "RDS", "SQS", "SNS", "IAM", "CloudWatch", "API Gateway",
+    "Virtual Machines (Azure)", "App Service (Azure)", "Azure Functions", "Cosmos DB", "Compute Engine (GCP)", "Cloud Functions (GCP)", "BigQuery", "Docker", "Kubernetes (K8s)", "Jenkins", "GitLab CI/CD",
+    "GitHub Actions", "Azure DevOps", "CircleCI", "Travis CI", "Git", "GitHub", "GitLab", "Bitbucket", "Ansible", "Terraform", "Chef", "Puppet", "Prometheus", "Grafana", "ELK Stack", "Elasticsearch",
+    "Logstash", "Kibana", "Serverless Mimari", "Microservices Mimari", "Monolithic Mimari", "RESTful API Geliştirme", "GraphQL", "API Güvenliği", "JWT (JSON Web Tokens)", "OAuth2", "Unit Testing",
+    "Integration Testing", "End-to-End Testing", "TDD (Test-Driven Development)", "Jest", "Mocha", "JUnit", "NUnit", "Pytest", "Mimari Desenler", "MVC", "MVVM", "Event-Driven Architecture",
+    "Tasarım Desenleri (Design Patterns)", "Singleton", "Factory Method", "Observer Pattern", "Strategy Pattern", "Decorator Pattern", "Temiz Kod (Clean Code)", "SOLID Prensipleri", "Agile Metodolojileri",
+    "Scrum", "Kanban", "Refactoring", "Debugging", "Performans Optimizasyonu", "Güvenli Kodlama Pratikleri", "IDE'ler (Entegre Geliştirme Ortamları)", "VS Code", "IntelliJ IDEA", "Eclipse", "Visual Studio",
+    "PyCharm", "Jira", "Confluence", "Asana", "Trello", "Etkili İletişim", "Takım Çalışması", "Aktif Dinleme", "Çatışma Çözme", "Geri Bildirim Verme", "Geri Bildirim Alma", "Sunum Becerileri",
+    "Müşteri Odaklılık", "Analitik Düşünme", "Problem Çözme", "Kritik Düşünme", "Hata Ayıklama (Soft Skill)", "Araştırma Becerileri", "Esneklik", "Uyum Sağlama", "Sürekli Öğrenme", "Yenilikçilik", "Merak",
+    "Değişim Yönetimi", "Zaman Yönetimi", "Öz Disiplin", "Sorumluluk Sahibi Olma", "Detay Odaklılık", "Proaktif Olma", "İş Etiği", "Takım Liderliği", "Mentorluk", "Karar Verme", "Yetki Devri", "Motivasyon"
+] 

@@ -1,0 +1,10 @@
+pdfplumber
+python-docx
+sentence-transformers
+scikit-learn
+requests
+openai
+fastapi
+uvicorn
+# Gemini entegrasyonu için gerekli ek paketler buraya eklenebilir 
+numpy 
